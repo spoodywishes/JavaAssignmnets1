@@ -1,12 +1,17 @@
-package variableAssignment;
+package day_2;
 
 public class Question7 {
 
 	public static void main(String[] args) {
-		int i=9;
-		double f=33.4;
-		System.out.print("i="+i);
-		System.out.println(" f="+f);
+		System.out.println("  /\\  /\\");
+		System.out.println(" /__\\/__\\"); 
+		
+		System.out.println();
+		
+		System.out.println("I am from \"England\"");
+		System.out.println("");
+		System.out.println("How is your day going,'good' or 'bad'?");
+
 	}
 
 }
